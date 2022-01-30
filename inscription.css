@@ -1,0 +1,9 @@
+button{
+  width: 10%;
+  height: 5%;
+}
+body{
+  background-image: url('ballondefoot.jpeg');
+  background-size: cover;
+  color: blue;
+}
